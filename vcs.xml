@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/unclebob/spacewar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/flyingmachine/pegthing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Wacken\Desktop" />
