@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id=":cursive.repl.actions/jump-to-repl">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl e" />
+  </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
