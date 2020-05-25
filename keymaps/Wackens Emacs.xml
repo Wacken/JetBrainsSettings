@@ -22,9 +22,15 @@
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="ErgoKeysCommandMode">
+    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="context_menu" />
+    <keyboard-shortcut first-keystroke="less" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="ShowPopupMenu" />
   <action id="Table-scrollUpChangeSelection">
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="alt v" />
