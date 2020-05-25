@@ -22,9 +22,13 @@
           <option name="url" value="http://gitlab.db.in.tum.de" />
           <option name="userName" value="s.walchshaeusl@tum.de" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gigasquid/wonderland-clojure-katas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\C++&amp;C" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/Clojure" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
