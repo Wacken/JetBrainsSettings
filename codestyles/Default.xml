@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <ClojureCodeStyleSettings>{
+  :katas.card-game-test/=&gt; 0
+}</ClojureCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
