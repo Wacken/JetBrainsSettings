@@ -1,0 +1,5 @@
+<application>
+  <component name="ErgoKeysSettings">
+    <option name="keyboardLayout" value="dvorak" />
+  </component>
+</application>
