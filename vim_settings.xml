@@ -12,6 +12,20 @@
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/Clojure/katas/test/katas/card_game_test.clj" timestamp="1591349929950">
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="48" column="28" />
+        <mark key="." line="48" column="28" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
