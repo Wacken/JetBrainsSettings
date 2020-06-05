@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../src/katas/card_game.clj'" />
     <option name="defaultScopeName" value="File '.../src/katas/card_game.clj'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../src/katas/card_game.clj'" />
   </component>
 </application>
