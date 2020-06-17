@@ -18,16 +18,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Clojure/katas/test/katas/card_game_test.clj" timestamp="1591349929950">
-        <mark key="[" line="48" column="28" />
-        <mark key="]" line="48" column="28" />
-        <mark key="." line="48" column="28" />
+      <file name="$USER_HOME$/Projects/Clojure/katas/test/katas/card_game_test.clj" timestamp="1592382779978">
+        <mark key="'" line="83" column="44" />
+        <mark key="[" line="98" column="41" />
+        <mark key="]" line="98" column="41" />
+        <mark key="." line="78" column="4" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="98" column="41" filename="$USER_HOME$/Projects/Clojure/katas/test/katas/card_game_test.clj" />
+      <jump line="78" column="2" filename="$USER_HOME$/Projects/Clojure/katas/test/katas/card_game_test.clj" />
+      <jump line="83" column="44" filename="$USER_HOME$/Projects/Clojure/katas/test/katas/card_game_test.clj" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgPT4gKGNvbnRhaW5zCiAgICAgICB7OnBsYXllcjEgKGNvbnRhaW5zIHs6aGFuZCBbMF0gOm1hbmEgNH0pCiAgICAgICAgOnBsYXllcjIgKGNvbnRhaW5zIHs6aGVhbHRoIDl9KX0pKQ==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgPT4gKGNvbnRhaW5zCiAgICAgICB7OnBsYXllcjEgKGNvbnRhaW5zIHs6aGFuZCBbMF0gOm1hbmEgNH0pCiAgICAgICAgOnBsYXllcjIgKGNvbnRhaW5zIHs6aGVhbHRoIDl9KX0pKQ==</text>
+      </register>
+      <register name="k" type="4">
+        <text>j</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
